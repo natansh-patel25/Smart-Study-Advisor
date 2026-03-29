@@ -28,7 +28,7 @@ prediction = model.predict(input_data)
 
 print("\nPredicted Final Marks:", round(prediction[0], 2))
 
-# Suggestion system (this makes project unique)
+# Generate suggestions based on input values
 
 print("\nSuggestions:")
 
