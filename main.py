@@ -43,3 +43,4 @@ if previous_marks < 60:
 
 if study_hours >= 6 and attendance >= 80:
     print("- Great job! Keep maintaining your performance.")
+
